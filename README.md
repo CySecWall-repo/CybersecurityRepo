@@ -7,7 +7,9 @@ Intended to showcase Cybersecurity work by ddiaz
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+Diagrams/Secure Private Infrastructure On Public Cloud - Deivis Diaz.zip
+
+https://github.com/CySecWall-repo/CybersecurityRepo/blob/e85120c31cd1f66c308639d97755e66cceb2e55f/Diagrams/Secure%20Private%20Infrastructure%20On%20Public%20Cloud%20-%20Deivis%20Diaz.zip
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
