@@ -11,6 +11,9 @@ Diagrams/Secure Private Infrastructure On Public Cloud - Deivis Diaz.zip
 
 https://github.com/CySecWall-repo/CybersecurityRepo/blob/e85120c31cd1f66c308639d97755e66cceb2e55f/Diagrams/Secure%20Private%20Infrastructure%20On%20Public%20Cloud%20-%20Deivis%20Diaz.zip
 
+![image](https://user-images.githubusercontent.com/86539199/123533190-52cbb680-d6e1-11eb-910b-38f4c9ac656d.png)
+
+
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
   - Enter the playbook file._
@@ -95,6 +98,7 @@ The following screenshot displays the result of running `docker ps` after succes
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
+
 10.1.0.5  
 10.1.0.6  
 10.1.0.8  
