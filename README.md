@@ -11,7 +11,7 @@ Diagrams/Secure Private Infrastructure On Public Cloud - Deivis Diaz.zip
 
 https://github.com/CySecWall-repo/CybersecurityRepo/blob/e85120c31cd1f66c308639d97755e66cceb2e55f/Diagrams/Secure%20Private%20Infrastructure%20On%20Public%20Cloud%20-%20Deivis%20Diaz.zip
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
   - _TODO: Enter the playbook file._
 
@@ -28,7 +28,7 @@ This document contains the following details:
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
-Load balancing ensures that the application will be highly available, in addition to restricting access to the network.
+Load balancing ensures that the application will be highly available,in addition to restricting access to the network.
 - What aspect of security do load balancers protect? 
 ANSWER:
 
@@ -89,6 +89,7 @@ The playbook implements the following tasks:
 
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
+![image](https://user-images.githubusercontent.com/86539199/123532973-d1bfef80-d6df-11eb-92b7-2b4fe61c44a2.png)
 
 
 ### Target Machines & Beats
