@@ -130,5 +130,5 @@ _ Answer the following questions to fill in the blanks:_
 
 - _Which URL do you navigate to in order to check that the ELK server is running?
 
-   Elk virtual net public IP 
+   Elk public IP:5601/app/kibana. 
 
